@@ -1,0 +1,3 @@
+These two solutions are just different
+ways to code this game.
+Which one to choose will not affect the result of the game.
